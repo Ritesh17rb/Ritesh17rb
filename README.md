@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 3rd Year Computer Science Student at NIT JAMSHEDPUR(2025 Batch)<br><br>🚀 Passionate about Open Source | Loves to contribute<br><br>💡 Proficient in Data Structures and Algorithms (DSA), React.js, Next.js, and more<br><br>🤝 Let's collaborate to create something wonderful! Open to exciting projects and contributions.
+👨‍💻 I am a 4th year computer science student at NIT JAMSHEDPUR <br><br>💡I have learned various Computer Science fundamentals and gained interpersonal skills like teamwork.<br><br>🤝I love to solve real-world problems and have keen interest in problem solving and Web Development.
 
 
 ## 🌐 Socials:
