@@ -1,4 +1,7 @@
-# 💫 About Me:
+नमस्ते! (Namaste!) 🙏
+
+![image](https://github.com/Ritesh17rb/Ritesh17rb/assets/101309433/e8090ae2-9ce4-42db-b37a-40a6e1c670a7)
+
 👨‍💻 I am a 4th year computer science student at NIT JAMSHEDPUR <br><br>💡I have learned various Computer Science fundamentals and gained interpersonal skills like teamwork.<br><br>🤝I love to solve real-world problems and have keen interest in problem solving and Web Development.
 
 
