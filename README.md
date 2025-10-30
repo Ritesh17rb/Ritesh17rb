@@ -1,5 +1,5 @@
 ## 🙏 नमस्ते! (Namaste!)  
-## I’m Ritesh👋  
+## I’m Ritesh 👋  
 
 ![Banner](https://github.com/Ritesh17rb/Ritesh17rb/assets/101309433/e8090ae2-9ce4-42db-b37a-40a6e1c670a7)
 
@@ -8,7 +8,7 @@
 💡 Passionate about **Software Development**, **AI-driven Engineering**, and **Scalable Full-Stack Systems**.  
 🚀 I love solving real-world problems through clean, efficient, and impactful code.  
 🌱 Currently exploring **Generative AI**, **System Design**, and **Cloud-based Architecture**.  
-⚡ Fun Fact: I am Scared to go to ART Musuems , what if they keep me .  
+⚡ Fun Fact: *I am scared to go to art museums — what if they keep me there?* 🎨  
 
 ---
 
@@ -17,6 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh17rb)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ritesh17rb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=firefox&logoColor=white)](https://ritesh-portfolio-five.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Ritesh17rb/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritesh17lifeamazing@gmail.com)
 
 ---
@@ -57,6 +58,14 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-%230A66FF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🧩 LeetCode Stats
+📈 Check out my DSA journey on [LeetCode](https://leetcode.com/u/Ritesh17rb/)  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ritesh17rb?theme=dark&font=Baloo%202&ext=activity)
+![LeetCode Graph](https://ssr-contributions-svg.vercel.app/_/Ritesh17rb?chart=calendar&format=svg&weeks=40&theme=dark)
 
 ---
 
