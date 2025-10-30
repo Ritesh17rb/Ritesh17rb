@@ -1,5 +1,5 @@
 ## 🙏 नमस्ते! (Namaste!)  
-### I’m Ritesh Kumar 👋  
+## I’m Ritesh👋  
 
 ![Banner](https://github.com/Ritesh17rb/Ritesh17rb/assets/101309433/e8090ae2-9ce4-42db-b37a-40a6e1c670a7)
 
