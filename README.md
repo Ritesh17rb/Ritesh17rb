@@ -4,7 +4,7 @@
 ![Banner](https://github.com/Ritesh17rb/Ritesh17rb/assets/101309433/e8090ae2-9ce4-42db-b37a-40a6e1c670a7)
 
 🎓 **B.Tech, Computer Science & Engineering – NIT Jamshedpur (2025 Graduate)**  
-💼 **Data Science Engineer at Straive** | Ex-**SDE Intern at Planful (Hyderabad)**  
+💼 **Data Science Engineer** | Ex-**SDE Intern at Planful (Hyderabad)**  
 💡 Passionate about **Software Development**, **AI-driven Engineering**, and **Scalable Full-Stack Systems**.  
 🚀 I love solving real-world problems through clean, efficient, and impactful code.  
 🌱 Currently exploring **Generative AI**, **System Design**, and **Cloud-based Architecture**.  
