@@ -8,13 +8,11 @@
 💡 Passionate about **Software Development**, **AI-driven Engineering**, and **Scalable Full-Stack Systems**.  
 🚀 I love solving real-world problems through clean, efficient, and impactful code.  
 🌱 Currently exploring **Generative AI**, **System Design**, and **Cloud-based Architecture**.  
-⚡ Fun Fact: *I am scared to go to art museums — what if they keep me there?* 🎨  
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-b32a06251)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh17rb)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ritesh17rb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=firefox&logoColor=white)](https://ritesh-portfolio-five.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Ritesh17rb/)
