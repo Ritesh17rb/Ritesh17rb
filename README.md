@@ -69,8 +69,8 @@
 
 ## 🧠 Experience
 
-### 💼 Data Science Engineer – Straive  
-*Sep 2025 – Present*  
+### 💼 Software Development Engineer  
+*Aug 2025 – Present*  
 - Building **intelligent automation** and **data-driven systems** for analytics and content enrichment.  
 - Developing **AI-powered features** and scalable backend services integrating ML pipelines.  
 - Leveraging **Python, Node.js, MongoDB, and Docker** to build automation tools and APIs.  
