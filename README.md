@@ -9,6 +9,7 @@
 <p align="center">
   <a href="#open-source">Open source</a> &nbsp; / &nbsp;
   <a href="#things-ive-built">Things I've built</a> &nbsp; / &nbsp;
+  <a href="https://leetcode.com/u/Ritesh17rb/">LeetCode ↗</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/ritesh-kumar-b32a06251/">LinkedIn ↗</a> &nbsp; / &nbsp;
   <a href="mailto:ritesh17lifeamazing@gmail.com">Let's talk ↗</a>
 </p>
@@ -73,6 +74,12 @@ My merged work in **Apache DataFusion Spark** includes Spark-compatible `timesta
 
 More from the workbench: [devrun](https://github.com/Ritesh17rb/devrun) · [Verse Valley](https://github.com/Ritesh17rb/VerseValley) · [LynqIt](https://github.com/Ritesh17rb/LynqIt)
 
+## Problem solving
+
+[**LeetCode · Ritesh17rb ↗**](https://leetcode.com/u/Ritesh17rb/)
+
+I practice data structures and algorithms on LeetCode, with an emphasis on efficient solutions and time and space complexity. My profile tracks my problem-solving progress and submissions.
+
 ## The toolbox
 
 | Where I'm working | What I reach for |
@@ -86,8 +93,6 @@ More from the workbench: [devrun](https://github.com/Ritesh17rb/devrun) · [Vers
 <summary><strong>Background</strong></summary>
 
 Computer Science graduate from NIT Jamshedpur (2025). Previously an SDE Intern at Planful, contributing to GenAI features, localization, autocomplete, and admin dashboards.
-
-[Problem solving on LeetCode ↗](https://leetcode.com/u/Ritesh17rb/)
 
 </details>
 
