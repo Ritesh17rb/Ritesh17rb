@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
   <title id="title">Ritesh — Build. Contribute. Repeat.</title>
-  <desc id="desc">Full-stack products, developer tools, and open source. A branching path from an idea to an upstream patch.</desc>
+  <desc id="desc">AI Engineer at Straive. Developer tools, open source, and a branching path from an idea to an upstream patch.</desc>
   <defs>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#263547" stroke-width=".6"/></pattern>
     <style>.mono{font-family:Consolas,'Liberation Mono',monospace}.sans{font-family:'Segoe UI',Arial,sans-serif}@media(prefers-reduced-motion:reduce){.signal{display:none}}</style>
@@ -12,7 +12,7 @@
   <path d="M34 66H566" stroke="#263547"/>
   <text x="29" y="170" fill="#eef4f7" font-size="108" font-weight="800" letter-spacing="-5" class="sans">RITESH<tspan fill="#c4f56a">.</tspan></text>
   <text x="36" y="218" fill="#eef4f7" font-size="31" font-weight="500" letter-spacing="-.8" class="sans">Build. Contribute. Repeat.</text>
-  <text x="37" y="258" fill="#91a2b6" font-size="20" class="mono">products · tools · open source</text>
+  <text x="37" y="258" fill="#91a2b6" font-size="20" class="mono">AI Engineer at Straive</text>
   <path d="M70 330H530" fill="none" stroke="#263547" stroke-width="3"/>
   <path d="M70 330H190C235 330 235 370 300 370H390C435 370 435 330 530 330" fill="none" stroke="#c4f56a" stroke-width="3"/>
   <g fill="#0b1017" stroke="#c4f56a" stroke-width="2"><circle cx="70" cy="330" r="9"/><circle cx="300" cy="370" r="9"/><circle cx="530" cy="330" r="9"/></g>

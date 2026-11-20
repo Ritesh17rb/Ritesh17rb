@@ -3,7 +3,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" width="1200" alt="Ritesh. Build. Contribute. Repeat. Full-stack products, developer tools, and open source.">
+  <img src="./assets/hero-dark.svg" width="1200" alt="Ritesh. AI Engineer at Straive. Developer tooling and open source.">
 </picture>
 
 <p align="center">
@@ -13,13 +13,11 @@
   <a href="mailto:ritesh17lifeamazing@gmail.com">Let's talk ↗</a>
 </p>
 
-## Hey, I'm Ritesh. नमस्ते!
+## About
 
-I build full-stack products and developer tools. These days, I'm also contributing upstream: digging into data systems, reproducing bugs, and turning what I learn into tested patches.
+I'm an **AI Engineer at Straive**. Outside work, I build developer tools and contribute to open-source data systems.
 
-**NIT Jamshedpur · CSE '25** &nbsp; · &nbsp; **Previously: SDE Intern at Planful**
-
-I'm drawn to thoughtful APIs, useful automation, and the edge case that makes a good test.
+Recent work includes RAG index auditing, schema validation for structured LLM outputs, and upstream contributions to Apache DataFusion Spark and Polars.
 
 ## Open source
 
@@ -85,12 +83,11 @@ More from the workbench: [devrun](https://github.com/Ritesh17rb/devrun) · [Vers
 | Everyday engineering | Git · Docker · regression tests · a reproducible bug |
 
 <details>
-<summary><strong>A little more about me</strong></summary>
+<summary><strong>Background</strong></summary>
 
-- B.Tech in Computer Science & Engineering, NIT Jamshedpur, 2025.
-- At Planful, I worked on GenAI features, localization, autocomplete, and admin dashboards.
-- Regionalist in Solving for India; semifinalist in Flipkart GRiD 5.0; 8th in Code Golf 7.0 at IIT Indore.
-- I still enjoy a good problem-solving session: [LeetCode ↗](https://leetcode.com/u/Ritesh17rb/).
+Computer Science graduate from NIT Jamshedpur (2025). Previously an SDE Intern at Planful, contributing to GenAI features, localization, autocomplete, and admin dashboards.
+
+[Problem solving on LeetCode ↗](https://leetcode.com/u/Ritesh17rb/)
 
 </details>
 

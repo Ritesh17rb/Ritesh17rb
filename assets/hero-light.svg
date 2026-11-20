@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Ritesh — Build. Contribute. Repeat.</title>
-  <desc id="desc">A custom engineering log with a branching circuit that connects an idea to a patch and an upstream contribution.</desc>
+  <desc id="desc">AI Engineer at Straive. A branching circuit connects an idea to a patch and an upstream contribution.</desc>
   <defs>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#c9d5c0" stroke-width=".7"/></pattern>
     <radialGradient id="wash"><stop stop-color="#4b7516" stop-opacity=".10"/><stop offset="1" stop-color="#4b7516" stop-opacity="0"/></radialGradient>
@@ -16,7 +16,7 @@
   <text x="1144" y="50" text-anchor="end" fill="#4b7516" font-size="13" letter-spacing="1" class="mono">ALWAYS A WORK IN PROGRESS</text>
   <text x="50" y="199" fill="#15231d" font-size="112" font-weight="800" letter-spacing="-6" class="sans">RITESH<tspan fill="#4b7516">.</tspan></text>
   <text x="56" y="254" fill="#15231d" font-size="32" font-weight="500" letter-spacing="-.8" class="sans">Build. Contribute. Repeat.</text>
-  <text x="57" y="297" fill="#526452" font-size="18" class="mono">Full-stack products. Developer tools. Open source.</text>
+  <text x="57" y="297" fill="#526452" font-size="18" class="mono">AI Engineer at Straive · Open-source contributor</text>
   <rect x="56" y="338" width="278" height="35" rx="17.5" fill="#e9efdf" stroke="#c9d5c0"/>
   <text x="75" y="361" fill="#4b7516" font-size="14" class="mono">idea → code → contribution</text>
   <g fill="none" stroke-linecap="round">

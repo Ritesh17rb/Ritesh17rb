@@ -17,7 +17,7 @@ def hero(dark: bool) -> str:
     bg, panel, ink, muted, line, accent = palette(dark)
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Ritesh — Build. Contribute. Repeat.</title>
-  <desc id="desc">A custom engineering log with a branching circuit that connects an idea to a patch and an upstream contribution.</desc>
+  <desc id="desc">AI Engineer at Straive. A branching circuit connects an idea to a patch and an upstream contribution.</desc>
   <defs>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="{line}" stroke-width=".7"/></pattern>
     <radialGradient id="wash"><stop stop-color="{accent}" stop-opacity=".10"/><stop offset="1" stop-color="{accent}" stop-opacity="0"/></radialGradient>
@@ -33,7 +33,7 @@ def hero(dark: bool) -> str:
   <text x="1144" y="50" text-anchor="end" fill="{accent}" font-size="13" letter-spacing="1" class="mono">ALWAYS A WORK IN PROGRESS</text>
   <text x="50" y="199" fill="{ink}" font-size="112" font-weight="800" letter-spacing="-6" class="sans">RITESH<tspan fill="{accent}">.</tspan></text>
   <text x="56" y="254" fill="{ink}" font-size="32" font-weight="500" letter-spacing="-.8" class="sans">Build. Contribute. Repeat.</text>
-  <text x="57" y="297" fill="{muted}" font-size="18" class="mono">Full-stack products. Developer tools. Open source.</text>
+  <text x="57" y="297" fill="{muted}" font-size="18" class="mono">AI Engineer at Straive · Open-source contributor</text>
   <rect x="56" y="338" width="278" height="35" rx="17.5" fill="{panel}" stroke="{line}"/>
   <text x="75" y="361" fill="{accent}" font-size="14" class="mono">idea → code → contribution</text>
   <g fill="none" stroke-linecap="round">
@@ -62,7 +62,7 @@ def mobile_hero(dark: bool) -> str:
     bg, panel, ink, muted, line, accent = palette(dark)
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
   <title id="title">Ritesh — Build. Contribute. Repeat.</title>
-  <desc id="desc">Full-stack products, developer tools, and open source. A branching path from an idea to an upstream patch.</desc>
+  <desc id="desc">AI Engineer at Straive. Developer tools, open source, and a branching path from an idea to an upstream patch.</desc>
   <defs>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="{line}" stroke-width=".6"/></pattern>
     <style>.mono{{font-family:Consolas,'Liberation Mono',monospace}}.sans{{font-family:'Segoe UI',Arial,sans-serif}}@media(prefers-reduced-motion:reduce){{.signal{{display:none}}}}</style>
@@ -74,7 +74,7 @@ def mobile_hero(dark: bool) -> str:
   <path d="M34 66H566" stroke="{line}"/>
   <text x="29" y="170" fill="{ink}" font-size="108" font-weight="800" letter-spacing="-5" class="sans">RITESH<tspan fill="{accent}">.</tspan></text>
   <text x="36" y="218" fill="{ink}" font-size="31" font-weight="500" letter-spacing="-.8" class="sans">Build. Contribute. Repeat.</text>
-  <text x="37" y="258" fill="{muted}" font-size="20" class="mono">products · tools · open source</text>
+  <text x="37" y="258" fill="{muted}" font-size="20" class="mono">AI Engineer at Straive</text>
   <path d="M70 330H530" fill="none" stroke="{line}" stroke-width="3"/>
   <path d="M70 330H190C235 330 235 370 300 370H390C435 370 435 330 530 330" fill="none" stroke="{accent}" stroke-width="3"/>
   <g fill="{bg}" stroke="{accent}" stroke-width="2"><circle cx="70" cy="330" r="9"/><circle cx="300" cy="370" r="9"/><circle cx="530" cy="330" r="9"/></g>
