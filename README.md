@@ -1,110 +1,99 @@
-## 🙏 नमस्ते! (Namaste!)  
-## I’m Ritesh 👋  
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-dark.svg" width="1200" alt="Ritesh. Build. Contribute. Repeat. Full-stack products, developer tools, and open source.">
+</picture>
 
-![Banner](https://github.com/Ritesh17rb/Ritesh17rb/assets/101309433/e8090ae2-9ce4-42db-b37a-40a6e1c670a7)
+<p align="center">
+  <a href="#open-source">Open source</a> &nbsp; / &nbsp;
+  <a href="#things-ive-built">Things I've built</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ritesh-kumar-b32a06251/">LinkedIn ↗</a> &nbsp; / &nbsp;
+  <a href="mailto:ritesh17lifeamazing@gmail.com">Let's talk ↗</a>
+</p>
 
-🎓 **B.Tech, Computer Science & Engineering – NIT Jamshedpur (2025 Graduate)**  
-💼 **Software Developer** | Ex-**SDE Intern at Planful (Hyderabad)**  
-💡 Passionate about **Software Development**, **AI-driven Engineering**, and **Scalable Full-Stack Systems**.  
-🚀 I love solving real-world problems through clean, efficient, and impactful code.  
-🌱 Currently exploring **Generative AI**, **System Design**, and **Cloud-based Architecture**.  
+## Hey, I'm Ritesh. नमस्ते!
 
----
+I build full-stack products and developer tools. These days, I'm also contributing upstream: digging into data systems, reproducing bugs, and turning what I learn into tested patches.
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-b32a06251)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ritesh17rb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=firefox&logoColor=white)](https://ritesh-portfolio-five.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Ritesh17rb/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritesh17lifeamazing@gmail.com)
+**NIT Jamshedpur · CSE '25** &nbsp; · &nbsp; **Previously: SDE Intern at Planful**
 
----
+I'm drawn to thoughtful APIs, useful automation, and the edge case that makes a good test.
 
-## 💻 Tech Stack
+## Open source
 
-### 🧠 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+My merged work in **Apache DataFusion Spark** includes Spark-compatible `timestamp_micros`, with input validation and coverage for integer boundaries, NULLs, and time zones. I'm also contributing to the **Polars R ecosystem**.
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/ChakraUI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- UPSTREAM:START -->
+| Project | Contribution | Status |
+| :--- | :--- | :--- |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_millis · #392](https://github.com/apache/datafusion-spark/pull/392) | 🟢&nbsp;Open |
+| **pola-rs/r-polars** | [feat: add ewm\_sum expression method · #1915](https://github.com/pola-rs/r-polars/pull/1915) | 🟢&nbsp;Open |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_micros · #381](https://github.com/apache/datafusion-spark/pull/381) | 🟣&nbsp;Merged |
+| **Pankajk001/Trade-Journal** | [Revamp trading journal with Supabase and responsive workspace · #1](https://github.com/Pankajk001/Trade-Journal/pull/1) | 🟢&nbsp;Open |
+<!-- UPSTREAM:END -->
 
-### 🧩 Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<sub>Latest public upstream pull requests · statuses refresh daily · <a href="https://github.com/search?q=is%3Apr+author%3ARitesh17rb+-user%3ARitesh17rb&type=pullrequests">View the full trail ↗</a></sub>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-%230A66FF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Things I've built
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / <a href="https://github.com/Ritesh17rb/rag-audit">rag-audit ↗</a></h3>
+<p>Your source changed. Did your RAG index?</p>
+<p>Find stale, orphaned, missing, and misconfigured chunks in an existing index.</p>
+<p><code>TypeScript</code> <code>RAG</code> <code>CLI</code></p>
+<a href="https://www.npmjs.com/package/rag-audit">npm package ↗</a>
+</td>
+<td width="50%" valign="top">
+<h3>02 / <a href="https://github.com/Ritesh17rb/schemaport">schemaport ↗</a></h3>
+<p>Switch LLM providers. Keep your schema guarantees.</p>
+<p>Catch JSON Schema constraints that get lost when migrating structured outputs.</p>
+<p><code>TypeScript</code> <code>JSON Schema</code> <code>LLM tooling</code></p>
+<a href="https://www.npmjs.com/package/schemaport">npm package ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / <a href="https://github.com/Ritesh17rb/skill-fit">skill-fit ↗</a></h3>
+<p>The right coding skills for the task at hand.</p>
+<p>Prepare explainable skill sets for coding agents and record project verification.</p>
+<p><code>TypeScript</code> <code>Coding agents</code> <code>Developer tools</code></p>
+<a href="https://www.npmjs.com/package/@ritesh17rb/skill-fit">npm package ↗</a>
+</td>
+<td width="50%" valign="top">
+<h3>04 / <a href="https://github.com/Ritesh17rb/swiftcart">SwiftCart ↗</a></h3>
+<p>From a product idea to a working checkout.</p>
+<p>A commerce app with payments, authentication, global state, and dark mode.</p>
+<p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
+<a href="https://swiftcart-two.vercel.app/">Live app ↗</a>
+</td>
+</tr>
+</table>
 
-## 🧩 LeetCode Stats
-📈 Check out my DSA journey on [LeetCode](https://leetcode.com/u/Ritesh17rb/)  
+More from the workbench: [devrun](https://github.com/Ritesh17rb/devrun) · [Verse Valley](https://github.com/Ritesh17rb/VerseValley) · [LynqIt](https://github.com/Ritesh17rb/LynqIt)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ritesh17rb?theme=dark&font=Baloo%202&ext=activity)
-![LeetCode Graph](https://ssr-contributions-svg.vercel.app/_/Ritesh17rb?chart=calendar&format=svg&weeks=40&theme=dark)
+## The toolbox
 
----
+| Where I'm working | What I reach for |
+| :--- | :--- |
+| Data systems & upstream patches | Rust · SQL · Python |
+| Developer tools | TypeScript · Node.js · GitHub Actions |
+| Full-stack products | React · Next.js · Express · MongoDB |
+| Everyday engineering | Git · Docker · regression tests · a reproducible bug |
 
-## 🧠 Experience
+<details>
+<summary><strong>A little more about me</strong></summary>
 
-### 💼 Software Development Engineer  
-*Aug 2025 – Present*  
-- Building **intelligent automation** and **data-driven systems** for analytics and content enrichment.  
-- Developing **AI-powered features** and scalable backend services integrating ML pipelines.  
-- Leveraging **Python, Node.js, MongoDB, and Docker** to build automation tools and APIs.  
+- B.Tech in Computer Science & Engineering, NIT Jamshedpur, 2025.
+- At Planful, I worked on GenAI features, localization, autocomplete, and admin dashboards.
+- Regionalist in Solving for India; semifinalist in Flipkart GRiD 5.0; 8th in Code Golf 7.0 at IIT Indore.
+- I still enjoy a good problem-solving session: [LeetCode ↗](https://leetcode.com/u/Ritesh17rb/).
 
-### 💻 SDE Intern – Planful, Hyderabad  
-*Jan 2025 – Aug 2025*  
-- Integrated **GenAI-driven features** into the PlanfulAI platform.  
-- Delivered **localization**, **autocomplete**, and **admin dashboard** modules using **Java, .NET, AngularJS**.  
-- Code deployed to production — improving user efficiency and reducing manual overhead.  
-
----
-
-## 🚀 Featured Projects
-- 🛒 **SwiftCart** – Quick commerce app with secure payments (Braintree), JWT auth, global state management & dark mode.  
-- ✍️ **Verse Valley** – Blogging platform (MERN) with CRUD, Google Auth, syntax highlighting, and dashboard analytics.  
-- 🎧 **Audio-Based Danger Detection** – Trained CNNs on Mel-spectrograms for real-time audio classification (92% accuracy).  
-
----
-
-## 🏆 Achievements
-- 🥈 **Regionalist – Solving for India Hackathon** (Google Cloud × GFG × AMD)  
-- 🥇 **Semi-Finalist – Flipkart Grid 5.0 (Top 2K / 3L+ teams)**  
-- 🧠 **Ranked 8th – Code Golf 7.0 (IIT Indore)**  
-- 💡 **Solved 1000+ DSA problems** on LeetCode, GFG, and Codeforces  
+</details>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ritesh17rb&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh17rb&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh17rb&theme=radical&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Ritesh17rb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-⭐ *“Building impactful tech with code, data, and creativity.”*
+**Have a bug worth chasing or a tool worth building?** [Let's talk ↗](mailto:ritesh17lifeamazing@gmail.com)

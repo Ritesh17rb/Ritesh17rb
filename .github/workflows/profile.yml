@@ -1,0 +1,43 @@
+name: Refresh upstream work
+
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'Ritesh17rb/Ritesh17rb'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Check the updater
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Refresh public contributions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update_profile.py
+      - name: Commit only when contributions change
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Upstream work is current."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'docs: refresh upstream work'
+          git push
