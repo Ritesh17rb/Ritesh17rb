@@ -78,7 +78,15 @@ More from the workbench: [devrun](https://github.com/Ritesh17rb/devrun) · [Vers
 
 [**LeetCode · Ritesh17rb ↗**](https://leetcode.com/u/Ritesh17rb/)
 
-I practice data structures and algorithms on LeetCode, with an emphasis on efficient solutions and time and space complexity. My profile tracks my problem-solving progress and submissions.
+Problems solved by difficulty, ranking, and submission activity:
+
+<a href="https://leetcode.com/u/Ritesh17rb/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Ritesh17rb?theme=dark&amp;font=Roboto&amp;ext=heatmap&amp;border=0&amp;radius=12&amp;animation=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Ritesh17rb?theme=light&amp;font=Roboto&amp;ext=heatmap&amp;border=0&amp;radius=12&amp;animation=false">
+    <img src="https://leetcard.jacoblin.cool/Ritesh17rb?theme=dark&amp;font=Roboto&amp;ext=heatmap&amp;border=0&amp;radius=12&amp;animation=false" width="500" alt="Ritesh17rb's live LeetCode stats: solved problems by difficulty, ranking, and a yearly submission heatmap.">
+  </picture>
+</a>
 
 ## The toolbox
 
