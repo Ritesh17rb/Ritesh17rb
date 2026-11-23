@@ -27,10 +27,10 @@ My merged work in **Apache DataFusion Spark** includes Spark-compatible `timesta
 <!-- UPSTREAM:START -->
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
+| **pola-rs/r-polars** | [refactor: drop S7 0.x support · #1917](https://github.com/pola-rs/r-polars/pull/1917) | 🟣&nbsp;Merged |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_millis · #392](https://github.com/apache/datafusion-spark/pull/392) | 🟢&nbsp;Open |
 | **apache/datafusion-spark** | [feat(spark): implement Spark-compatible lower and lcase · #398](https://github.com/apache/datafusion-spark/pull/398) | 🟢&nbsp;Open |
 | **apache/datafusion-spark** | [feat(spark): implement Spark-compatible substring\_index · #397](https://github.com/apache/datafusion-spark/pull/397) | 🟢&nbsp;Open |
-| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_seconds · #396](https://github.com/apache/datafusion-spark/pull/396) | 🟢&nbsp;Open |
-| **excalidraw/cli** | [fix: preserve Mermaid arrow gaps in the stable SDK · #16](https://github.com/excalidraw/cli/pull/16) | 🟢&nbsp;Open |
 <!-- UPSTREAM:END -->
 
 <sub>Latest public upstream pull requests · statuses refresh daily · <a href="https://github.com/search?q=is%3Apr+author%3ARitesh17rb+-user%3ARitesh17rb&type=pullrequests">View the full trail ↗</a></sub>
