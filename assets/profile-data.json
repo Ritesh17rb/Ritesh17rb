@@ -1,0 +1,181 @@
+{
+  "updated_at": "23 Nov 2026",
+  "merged_count": 4,
+  "open_count": 8,
+  "items": [
+    {
+      "html_url": "https://github.com/pola-rs/r-polars/pull/1917",
+      "title": "refactor: drop S7 0.x support",
+      "state": "closed",
+      "pull_request": {
+        "url": "https://api.github.com/repos/pola-rs/r-polars/pulls/1917",
+        "html_url": "https://github.com/pola-rs/r-polars/pull/1917",
+        "diff_url": "https://github.com/pola-rs/r-polars/pull/1917.diff",
+        "patch_url": "https://github.com/pola-rs/r-polars/pull/1917.patch",
+        "merged_at": "2026-11-23T13:08:30Z"
+      }
+    },
+    {
+      "html_url": "https://github.com/apache/datafusion-spark/pull/392",
+      "title": "feat(spark): implement Spark-compatible timestamp_millis",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/392",
+        "html_url": "https://github.com/apache/datafusion-spark/pull/392",
+        "diff_url": "https://github.com/apache/datafusion-spark/pull/392.diff",
+        "patch_url": "https://github.com/apache/datafusion-spark/pull/392.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/apache/datafusion-spark/pull/398",
+      "title": "feat(spark): implement Spark-compatible lower and lcase",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/398",
+        "html_url": "https://github.com/apache/datafusion-spark/pull/398",
+        "diff_url": "https://github.com/apache/datafusion-spark/pull/398.diff",
+        "patch_url": "https://github.com/apache/datafusion-spark/pull/398.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/apache/datafusion-spark/pull/397",
+      "title": "feat(spark): implement Spark-compatible substring_index",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/397",
+        "html_url": "https://github.com/apache/datafusion-spark/pull/397",
+        "diff_url": "https://github.com/apache/datafusion-spark/pull/397.diff",
+        "patch_url": "https://github.com/apache/datafusion-spark/pull/397.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/apache/datafusion-spark/pull/396",
+      "title": "feat(spark): implement Spark-compatible timestamp_seconds",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/396",
+        "html_url": "https://github.com/apache/datafusion-spark/pull/396",
+        "diff_url": "https://github.com/apache/datafusion-spark/pull/396.diff",
+        "patch_url": "https://github.com/apache/datafusion-spark/pull/396.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/excalidraw/cli/pull/16",
+      "title": "fix: preserve Mermaid arrow gaps in the stable SDK",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/excalidraw/cli/pulls/16",
+        "html_url": "https://github.com/excalidraw/cli/pull/16",
+        "diff_url": "https://github.com/excalidraw/cli/pull/16.diff",
+        "patch_url": "https://github.com/excalidraw/cli/pull/16.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/pola-rs/r-polars/pull/1915",
+      "title": "feat: add ewm_sum expression method",
+      "state": "closed",
+      "pull_request": {
+        "url": "https://api.github.com/repos/pola-rs/r-polars/pulls/1915",
+        "html_url": "https://github.com/pola-rs/r-polars/pull/1915",
+        "diff_url": "https://github.com/pola-rs/r-polars/pull/1915.diff",
+        "patch_url": "https://github.com/pola-rs/r-polars/pull/1915.patch",
+        "merged_at": "2026-11-21T08:03:38Z"
+      }
+    },
+    {
+      "html_url": "https://github.com/apache/datafusion-spark/pull/381",
+      "title": "feat(spark): implement Spark-compatible timestamp_micros",
+      "state": "closed",
+      "pull_request": {
+        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/381",
+        "html_url": "https://github.com/apache/datafusion-spark/pull/381",
+        "diff_url": "https://github.com/apache/datafusion-spark/pull/381.diff",
+        "patch_url": "https://github.com/apache/datafusion-spark/pull/381.patch",
+        "merged_at": "2026-11-20T16:49:46Z"
+      }
+    },
+    {
+      "html_url": "https://github.com/Pankajk001/Trade-Journal/pull/1",
+      "title": "Revamp trading journal with Supabase and responsive workspace",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Pankajk001/Trade-Journal/pulls/1",
+        "html_url": "https://github.com/Pankajk001/Trade-Journal/pull/1",
+        "diff_url": "https://github.com/Pankajk001/Trade-Journal/pull/1.diff",
+        "patch_url": "https://github.com/Pankajk001/Trade-Journal/pull/1.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/sanand0/embedumap/pull/1",
+      "title": "Add timeline playback mode and speed controls",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/sanand0/embedumap/pulls/1",
+        "html_url": "https://github.com/sanand0/embedumap/pull/1",
+        "diff_url": "https://github.com/sanand0/embedumap/pull/1.diff",
+        "patch_url": "https://github.com/sanand0/embedumap/pull/1.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/kshitijgithb/Green-Delight/pull/1",
+      "title": "Fixed buys and improved the UI",
+      "state": "closed",
+      "pull_request": {
+        "url": "https://api.github.com/repos/kshitijgithb/Green-Delight/pulls/1",
+        "html_url": "https://github.com/kshitijgithb/Green-Delight/pull/1",
+        "diff_url": "https://github.com/kshitijgithb/Green-Delight/pull/1.diff",
+        "patch_url": "https://github.com/kshitijgithb/Green-Delight/pull/1.patch",
+        "merged_at": "2024-04-18T13:08:12Z"
+      }
+    },
+    {
+      "html_url": "https://github.com/Ayu-99/Data-Structures/pull/19",
+      "title": "Update String to Integer (atoi).cpp (Removed a Bug in the code)",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Ayu-99/Data-Structures/pulls/19",
+        "html_url": "https://github.com/Ayu-99/Data-Structures/pull/19",
+        "diff_url": "https://github.com/Ayu-99/Data-Structures/pull/19.diff",
+        "patch_url": "https://github.com/Ayu-99/Data-Structures/pull/19.patch",
+        "merged_at": null
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": "rag-audit",
+      "description": "Read-only auditing for stale, orphaned, missing and misconfigured RAG index chunks.",
+      "language": "TypeScript",
+      "url": "https://github.com/Ritesh17rb/rag-audit",
+      "homepage": "https://www.npmjs.com/package/rag-audit"
+    },
+    {
+      "name": "schemaport",
+      "description": "Catch lost JSON Schema guarantees before migrating structured LLM outputs between providers.",
+      "language": "TypeScript",
+      "url": "https://github.com/Ritesh17rb/schemaport",
+      "homepage": "https://www.npmjs.com/package/schemaport"
+    },
+    {
+      "name": "skill-fit",
+      "description": "Prepare explainable skill sets for coding agents and record project verification.",
+      "language": "TypeScript",
+      "url": "https://github.com/Ritesh17rb/skill-fit",
+      "homepage": "https://www.npmjs.com/package/@ritesh17rb/skill-fit"
+    },
+    {
+      "name": "swiftcart",
+      "description": "A full-stack commerce application with authentication and payments.",
+      "language": "JavaScript",
+      "url": "https://github.com/Ritesh17rb/swiftcart",
+      "homepage": "https://swiftcart-two.vercel.app/"
+    }
+  ]
+}

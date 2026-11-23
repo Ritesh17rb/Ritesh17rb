@@ -3,107 +3,84 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" width="1200" alt="Ritesh. AI Engineer at Straive. Developer tooling and open source.">
+  <img src="./assets/hero-light.svg" width="1000" alt="Ritesh — AI Engineer at Straive. Developer tools, data systems, and open source.">
 </picture>
 
-<p align="center">
-  <a href="#open-source">Open source</a> &nbsp; / &nbsp;
-  <a href="#things-ive-built">Things I've built</a> &nbsp; / &nbsp;
-  <a href="https://leetcode.com/u/Ritesh17rb/">LeetCode ↗</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/ritesh-kumar-b32a06251/">LinkedIn ↗</a> &nbsp; / &nbsp;
-  <a href="mailto:ritesh17lifeamazing@gmail.com">Let's talk ↗</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ritesh-kumar-b32a06251/) · [Email](mailto:ritesh17lifeamazing@gmail.com) · [Open-source work](#open-source) · [LeetCode](https://leetcode.com/u/Ritesh17rb/)
 
-## About
+I work on AI tooling and data infrastructure, from RAG index auditing and structured LLM outputs to Spark-compatible SQL functions. I contribute to **Apache DataFusion Spark** and **Polars**, and publish developer tools in TypeScript.
 
-I'm an **AI Engineer at Straive**. Outside work, I build developer tools and contribute to open-source data systems.
+## Selected projects
 
-Recent work includes RAG index auditing, schema validation for structured LLM outputs, and upstream contributions to Apache DataFusion Spark and Polars.
+<!-- PROJECTS:START -->
+<p><a href="https://github.com/Ritesh17rb/rag-audit">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/rag-audit-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/rag-audit-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/rag-audit-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/rag-audit-light.svg">
+    <img src="./assets/rag-audit-light.svg" width="1000" alt="rag-audit: Read-only auditing for stale, orphaned, missing and misconfigured RAG index chunks.">
+  </picture>
+</a></p>
+
+<p><a href="https://github.com/Ritesh17rb/schemaport">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/schemaport-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/schemaport-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/schemaport-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/schemaport-light.svg">
+    <img src="./assets/schemaport-light.svg" width="1000" alt="schemaport: Catch lost JSON Schema guarantees before migrating structured LLM outputs between providers.">
+  </picture>
+</a></p>
+
+<p><a href="https://github.com/Ritesh17rb/skill-fit">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/skill-fit-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/skill-fit-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skill-fit-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/skill-fit-light.svg">
+    <img src="./assets/skill-fit-light.svg" width="1000" alt="skill-fit: Prepare explainable skill sets for coding agents and record project verification.">
+  </picture>
+</a></p>
+
+<p><a href="https://github.com/Ritesh17rb/swiftcart">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/swiftcart-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/swiftcart-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/swiftcart-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/swiftcart-light.svg">
+    <img src="./assets/swiftcart-light.svg" width="1000" alt="swiftcart: A full-stack commerce application with authentication and payments.">
+  </picture>
+</a></p>
+<!-- PROJECTS:END -->
 
 ## Open source
 
-My merged work in **Apache DataFusion Spark** includes Spark-compatible `timestamp_micros`, with input validation and coverage for integer boundaries, NULLs, and time zones. I'm also contributing to the **Polars R ecosystem**.
+Recent merged contributions and work in review, pulled directly from GitHub.
 
 <!-- UPSTREAM:START -->
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
-| **pola-rs/r-polars** | [refactor: drop S7 0.x support · #1917](https://github.com/pola-rs/r-polars/pull/1917) | 🟣&nbsp;Merged |
-| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_millis · #392](https://github.com/apache/datafusion-spark/pull/392) | 🟢&nbsp;Open |
-| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible lower and lcase · #398](https://github.com/apache/datafusion-spark/pull/398) | 🟢&nbsp;Open |
-| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible substring\_index · #397](https://github.com/apache/datafusion-spark/pull/397) | 🟢&nbsp;Open |
+| **pola-rs/r-polars** | [refactor: drop S7 0.x support · #1917](https://github.com/pola-rs/r-polars/pull/1917) | Merged |
+| **pola-rs/r-polars** | [feat: add ewm\_sum expression method · #1915](https://github.com/pola-rs/r-polars/pull/1915) | Merged |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_micros · #381](https://github.com/apache/datafusion-spark/pull/381) | Merged |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_millis · #392](https://github.com/apache/datafusion-spark/pull/392) | Open |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible lower and lcase · #398](https://github.com/apache/datafusion-spark/pull/398) | Open |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible substring\_index · #397](https://github.com/apache/datafusion-spark/pull/397) | Open |
 <!-- UPSTREAM:END -->
 
-<sub>Latest public upstream pull requests · statuses refresh daily · <a href="https://github.com/search?q=is%3Apr+author%3ARitesh17rb+-user%3ARitesh17rb&type=pullrequests">View the full trail ↗</a></sub>
+[All upstream pull requests →](https://github.com/search?q=is%3Apr+author%3ARitesh17rb+-user%3ARitesh17rb&type=pullrequests)
 
-## Things I've built
+## Experience & education
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / <a href="https://github.com/Ritesh17rb/rag-audit">rag-audit ↗</a></h3>
-<p>Your source changed. Did your RAG index?</p>
-<p>Find stale, orphaned, missing, and misconfigured chunks in an existing index.</p>
-<p><code>TypeScript</code> <code>RAG</code> <code>CLI</code></p>
-<a href="https://www.npmjs.com/package/rag-audit">npm package ↗</a>
-</td>
-<td width="50%" valign="top">
-<h3>02 / <a href="https://github.com/Ritesh17rb/schemaport">schemaport ↗</a></h3>
-<p>Switch LLM providers. Keep your schema guarantees.</p>
-<p>Catch JSON Schema constraints that get lost when migrating structured outputs.</p>
-<p><code>TypeScript</code> <code>JSON Schema</code> <code>LLM tooling</code></p>
-<a href="https://www.npmjs.com/package/schemaport">npm package ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / <a href="https://github.com/Ritesh17rb/skill-fit">skill-fit ↗</a></h3>
-<p>The right coding skills for the task at hand.</p>
-<p>Prepare explainable skill sets for coding agents and record project verification.</p>
-<p><code>TypeScript</code> <code>Coding agents</code> <code>Developer tools</code></p>
-<a href="https://www.npmjs.com/package/@ritesh17rb/skill-fit">npm package ↗</a>
-</td>
-<td width="50%" valign="top">
-<h3>04 / <a href="https://github.com/Ritesh17rb/swiftcart">SwiftCart ↗</a></h3>
-<p>From a product idea to a working checkout.</p>
-<p>A commerce app with payments, authentication, global state, and dark mode.</p>
-<p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
-<a href="https://swiftcart-two.vercel.app/">Live app ↗</a>
-</td>
-</tr>
-</table>
+**AI Engineer · Straive**
 
-More from the workbench: [devrun](https://github.com/Ritesh17rb/devrun) · [Verse Valley](https://github.com/Ritesh17rb/VerseValley) · [LynqIt](https://github.com/Ritesh17rb/LynqIt)
+Previously an **SDE Intern at Planful**, working on GenAI features, localization, autocomplete, and admin dashboards.
 
-## Problem solving
+**NIT Jamshedpur · Computer Science, 2025**
 
-[**LeetCode · Ritesh17rb ↗**](https://leetcode.com/u/Ritesh17rb/)
-
-Problems solved by difficulty, ranking, and submission activity:
-
-<a href="https://leetcode.com/u/Ritesh17rb/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Ritesh17rb?theme=dark&amp;font=Roboto&amp;ext=heatmap&amp;border=0&amp;radius=12&amp;animation=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Ritesh17rb?theme=light&amp;font=Roboto&amp;ext=heatmap&amp;border=0&amp;radius=12&amp;animation=false">
-    <img src="https://leetcard.jacoblin.cool/Ritesh17rb?theme=dark&amp;font=Roboto&amp;ext=heatmap&amp;border=0&amp;radius=12&amp;animation=false" width="500" alt="Ritesh17rb's live LeetCode stats: solved problems by difficulty, ranking, and a yearly submission heatmap.">
-  </picture>
-</a>
-
-## The toolbox
-
-| Where I'm working | What I reach for |
-| :--- | :--- |
-| Data systems & upstream patches | Rust · SQL · Python |
-| Developer tools | TypeScript · Node.js · GitHub Actions |
-| Full-stack products | React · Next.js · Express · MongoDB |
-| Everyday engineering | Git · Docker · regression tests · a reproducible bug |
-
-<details>
-<summary><strong>Background</strong></summary>
-
-Computer Science graduate from NIT Jamshedpur (2025). Previously an SDE Intern at Planful, contributing to GenAI features, localization, autocomplete, and admin dashboards.
-
-</details>
+<sub>Working with Rust, Python, SQL, TypeScript, React, and Node.js.</sub>
 
 ---
 
-**Have a bug worth chasing or a tool worth building?** [Let's talk ↗](mailto:ritesh17lifeamazing@gmail.com)
+<sub>Project cards and contribution counts refresh daily from public GitHub data. [How this profile updates](./scripts/update_profile.py)</sub>
