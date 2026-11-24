@@ -64,9 +64,9 @@ Recent merged contributions and work in review, pulled directly from GitHub.
 | **pola-rs/r-polars** | [refactor: drop S7 0.x support · #1917](https://github.com/pola-rs/r-polars/pull/1917) | Merged |
 | **pola-rs/r-polars** | [feat: add ewm\_sum expression method · #1915](https://github.com/pola-rs/r-polars/pull/1915) | Merged |
 | **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_micros · #381](https://github.com/apache/datafusion-spark/pull/381) | Merged |
-| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_millis · #392](https://github.com/apache/datafusion-spark/pull/392) | Open |
+| **apache/datafusion-spark** | [fix(spark): use Spark field names in struct · #410](https://github.com/apache/datafusion-spark/pull/410) | Open |
 | **apache/datafusion-spark** | [feat(spark): implement Spark-compatible lower and lcase · #398](https://github.com/apache/datafusion-spark/pull/398) | Open |
-| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible substring\_index · #397](https://github.com/apache/datafusion-spark/pull/397) | Open |
+| **apache/datafusion-spark** | [feat(spark): implement Spark-compatible timestamp\_millis · #392](https://github.com/apache/datafusion-spark/pull/392) | Open |
 <!-- UPSTREAM:END -->
 
 [All upstream pull requests →](https://github.com/search?q=is%3Apr+author%3ARitesh17rb+-user%3ARitesh17rb&type=pullrequests)

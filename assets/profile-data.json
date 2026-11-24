@@ -1,8 +1,32 @@
 {
-  "updated_at": "23 Nov 2026",
+  "updated_at": "24 Nov 2026",
   "merged_count": 4,
-  "open_count": 8,
+  "open_count": 9,
   "items": [
+    {
+      "html_url": "https://github.com/apache/datafusion-spark/pull/410",
+      "title": "fix(spark): use Spark field names in struct",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/410",
+        "html_url": "https://github.com/apache/datafusion-spark/pull/410",
+        "diff_url": "https://github.com/apache/datafusion-spark/pull/410.diff",
+        "patch_url": "https://github.com/apache/datafusion-spark/pull/410.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "html_url": "https://github.com/apache/datafusion-spark/pull/398",
+      "title": "feat(spark): implement Spark-compatible lower and lcase",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/398",
+        "html_url": "https://github.com/apache/datafusion-spark/pull/398",
+        "diff_url": "https://github.com/apache/datafusion-spark/pull/398.diff",
+        "patch_url": "https://github.com/apache/datafusion-spark/pull/398.patch",
+        "merged_at": null
+      }
+    },
     {
       "html_url": "https://github.com/pola-rs/r-polars/pull/1917",
       "title": "refactor: drop S7 0.x support",
@@ -24,18 +48,6 @@
         "html_url": "https://github.com/apache/datafusion-spark/pull/392",
         "diff_url": "https://github.com/apache/datafusion-spark/pull/392.diff",
         "patch_url": "https://github.com/apache/datafusion-spark/pull/392.patch",
-        "merged_at": null
-      }
-    },
-    {
-      "html_url": "https://github.com/apache/datafusion-spark/pull/398",
-      "title": "feat(spark): implement Spark-compatible lower and lcase",
-      "state": "open",
-      "pull_request": {
-        "url": "https://api.github.com/repos/apache/datafusion-spark/pulls/398",
-        "html_url": "https://github.com/apache/datafusion-spark/pull/398",
-        "diff_url": "https://github.com/apache/datafusion-spark/pull/398.diff",
-        "patch_url": "https://github.com/apache/datafusion-spark/pull/398.patch",
         "merged_at": null
       }
     },
