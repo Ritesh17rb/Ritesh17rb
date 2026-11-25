@@ -1,8 +1,20 @@
 {
-  "updated_at": "24 Nov 2026",
+  "updated_at": "25 Nov 2026",
   "merged_count": 4,
-  "open_count": 9,
+  "open_count": 10,
   "items": [
+    {
+      "html_url": "https://github.com/LibreChat-AI/LibreChat/pull/18898",
+      "title": "fix: preserve literal dollar sequences in MCP placeholders",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/LibreChat-AI/LibreChat/pulls/18898",
+        "html_url": "https://github.com/LibreChat-AI/LibreChat/pull/18898",
+        "diff_url": "https://github.com/LibreChat-AI/LibreChat/pull/18898.diff",
+        "patch_url": "https://github.com/LibreChat-AI/LibreChat/pull/18898.patch",
+        "merged_at": null
+      }
+    },
     {
       "html_url": "https://github.com/apache/datafusion-spark/pull/410",
       "title": "fix(spark): use Spark field names in struct",
