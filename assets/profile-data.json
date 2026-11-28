@@ -1,8 +1,20 @@
 {
-  "updated_at": "27 Nov 2026",
+  "updated_at": "28 Nov 2026",
   "merged_count": 4,
-  "open_count": 10,
+  "open_count": 11,
   "items": [
+    {
+      "html_url": "https://github.com/BerriAI/litellm/pull/54895",
+      "title": "fix(proxy): clear team member key duration defaults safely",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/BerriAI/litellm/pulls/54895",
+        "html_url": "https://github.com/BerriAI/litellm/pull/54895",
+        "diff_url": "https://github.com/BerriAI/litellm/pull/54895.diff",
+        "patch_url": "https://github.com/BerriAI/litellm/pull/54895.patch",
+        "merged_at": null
+      }
+    },
     {
       "html_url": "https://github.com/LibreChat-AI/LibreChat/pull/18898",
       "title": "fix: preserve literal dollar sequences in MCP placeholders",
